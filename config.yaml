@@ -26,12 +26,12 @@ monitors:
   - id: hels-by
     name: hels.by
     description: 'Redirects'
-    url: 'https://helsb.by/'
+    url: 'https://hels.by/'
     method: GET
     expectStatus: 200
 
   - id: easyit-com
     name: Work Home Page
-    url: 'https://easyit.com/'
+    url: 'https://www.easyit.com/'
     method: GET
     expectStatus: 200
